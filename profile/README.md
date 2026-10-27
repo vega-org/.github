@@ -24,6 +24,10 @@ Vega supports scripts and providers made by the community. Please note:
 
 The **only** official Vega projects are those published under the [vega-org](https://github.com/vega-org) GitHub organization:
 
+[![Vega for Android](https://img.shields.io/badge/Vega-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/vega-org/vega-app)
+[![Vega for Desktop](https://img.shields.io/badge/Vega-Desktop-5865F2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vega-org/vega-desktop)
+[![Vega for Web](https://img.shields.io/badge/Vega-Web-0A84FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://web.vega-app.in)
+
 
 Any app, fork, website, Telegram channel or provider outside **vega-org** is **unofficial** and has no connection to this project.
 
