@@ -1,6 +1,4 @@
 
-[![Sponsor](https://img.shields.io/badge/Sponsor-vega--org-ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/vega-org)
-
 ### What Vega is
 
 Vega is a **neutral, general-purpose media player and casting app**.
@@ -8,6 +6,12 @@ Vega provides:
 - A media player for local and network playback
 - Casting to supported devices (e.g., Chromecast/DLNA)
 - An **environment that runs user-generated scripts**, which users install and manage themselves
+
+[![Vega for Android](https://img.shields.io/badge/Vega-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/vega-org/vega-app)
+[![Vega for Desktop](https://img.shields.io/badge/Vega-Desktop-5865F2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vega-org/vega-desktop)
+[![Vega for Web](https://img.shields.io/badge/Vega-Web-0A84FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://web.vega-app.in)
+
+[![Sponsor](https://img.shields.io/badge/Sponsor-vega--org-ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/vega-org)
 
 ### No hosted content
 
@@ -24,9 +28,6 @@ Vega supports scripts and providers made by the community. Please note:
 
 The **only** official Vega projects are those published under the [vega-org](https://github.com/vega-org) GitHub organization:
 
-[![Vega for Android](https://img.shields.io/badge/Vega-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/vega-org/vega-app)
-[![Vega for Desktop](https://img.shields.io/badge/Vega-Desktop-5865F2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vega-org/vega-desktop)
-[![Vega for Web](https://img.shields.io/badge/Vega-Web-0A84FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://web.vega-app.in)
 
 
 Any app, fork, website, Telegram channel or provider outside **vega-org** is **unofficial** and has no connection to this project.
